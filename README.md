@@ -39,6 +39,8 @@ Contains historical sales records including year, item type, outlet type, outlet
 - Added filters for Item Type and Outlet Size to allow flexible analysis.
 
 ## Dashboard Preview
+<img width="976" height="877" alt="image" src="https://github.com/user-attachments/assets/9a47ddf0-f69b-4597-a9ed-9808deae1d57" />
+
 
 ## Recommendations and Insights
 1. **Sales Trend**  
