@@ -38,6 +38,8 @@ Contains historical sales records including year, item type, outlet type, outlet
 - Created visualizations for Yearly Sales Trend, Sales by Item Type, Outlet Type distribution (pie chart), and Sales by Outlet Type (bar chart).
 - Added filters for Item Type and Outlet Size to allow flexible analysis.
 
+## Dashboard Preview
+
 ## Recommendations and Insights
 1. **Sales Trend**  
    Sales peaked in 1985 (3.6M) and experienced a sharp decline in 1998 (188.3K), followed by partial recovery.  
